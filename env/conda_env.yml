@@ -1,0 +1,12 @@
+name: lerobot
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - ffmpeg=7
+  - requests
+  - numpy
+  - opencv
+  - dav1d
+  - aom
+prefix: /home/varsenii/Software/miniconda3/envs/lerobot
